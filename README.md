@@ -1,2 +1,2 @@
-course-22
-Adding Authentication
+course-24
+Replace Redux with Context Hooks
